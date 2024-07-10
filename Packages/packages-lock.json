@@ -3,9 +3,8 @@
     "com.factorycore.tonimacaroni.sabertoolkit": {
       "version": "0.2.2",
       "depth": 0,
-      "source": "registry",
+      "source": "builtin",
       "dependencies": {},
-      "url": "http://195.90.208.226:4874"
     },
     "com.unity.collab-proxy": {
       "version": "1.17.7",
